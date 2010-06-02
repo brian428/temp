@@ -1,5 +1,6 @@
 File2.txt
 Version: 3
-Changed in: a
-
+Started in: a
+Changed in: b-branch
 And we have still another update in a, master.
+Another, different!, change in b-branch.

@@ -2,3 +2,5 @@ File1.txt
 Version: 2
 Started in: a
 Changed in: b-branch
+
+Another change in b-branch.

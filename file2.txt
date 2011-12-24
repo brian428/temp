@@ -1,2 +1,4 @@
 File2.txt
 A change in develop while feature is ongoing.
+A change in develop while feature2 is ongoing.
+

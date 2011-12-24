@@ -4,3 +4,4 @@ A feature 1 change.
 A final feature 1 change.
 A feature 2 change.
 A final feature 2 change.
+A feature 3 change.

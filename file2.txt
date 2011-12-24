@@ -1,6 +1,2 @@
 File2.txt
-Version: 3
-Started in: a
-Changed in: b-branch
-And we have still another update in a, master.
-Another, different!, change in b-branch.
+A change in develop while feature is ongoing.

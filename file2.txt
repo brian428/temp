@@ -4,3 +4,4 @@ A change in develop while feature2 is ongoing.
 A change in develop while feature3 is ongoing.
 A change in develop while feature4 is ongoing.
 A change in develop while feature5 is ongoing.
+A change in develop while feature6 is ongoing.

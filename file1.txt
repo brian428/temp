@@ -11,3 +11,4 @@ A final feature 4 change.
 A feature 5 change.
 A final feature 5 change.
 A feature 6 change.
+A final feature 6 change.
